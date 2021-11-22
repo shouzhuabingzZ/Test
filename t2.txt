@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 本地后创建
+=======
+github上先创建
+>>>>>>> e53270a3da4846a8ecb98be14d0cafaee01a9bdd
+
+修改后的t2.txt
